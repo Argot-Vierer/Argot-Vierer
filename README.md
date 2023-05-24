@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Argot-Vierer
-- 👀 I’m interested in IoT, Linux, frontend development
-- 🌱 I’m currently learning, all is new.
+- 👀 I’m interested in IoT, Linux & frontend development :) 
+- 🌱 I’m currently learning frontend development
 - 📫 How to reach me : argot-vierer.0e@icloud.com
 
 <!---
